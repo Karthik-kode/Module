@@ -1,0 +1,78 @@
+
+
+.containers{
+  background-image: url('../public/assest/Teams.png');
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  height: 100vh;
+
+  margin: 0 !important;
+  
+}
+.own-card{
+
+  box-shadow: -2px -2px 1px 1px rgb(81, 114, 202);
+  background-color: rgba(99, 98, 136, 0);
+
+  color: #fff;
+
+  padding: 3% 3%;
+
+  margin-left: 3% !important;
+  margin-right: 45% !important;
+
+  /* opacity: .5; */
+
+  /* font-optical-sizing: 90%; */
+
+}
+
+.buton {
+
+  color: #fff !important;
+
+  background-color: rgb(162, 162, 179) ;
+
+  text-align: center;
+
+}
+.home-page{
+
+  padding: 10%;
+
+}
+
+.in-f{
+  border-radius: 0.5rem;
+  height: 50px;
+  text-align: center;
+}
+
+.disp{
+  display: flex;
+  justify-content: space-evenly;
+}
+.card{
+  width: 30%;
+  margin-left: 20%;
+  margin-top: 5%;
+} 
+
+.image{
+  
+  height: 90%;
+  width: 150%;
+  padding-top: 2%;
+
+}
+
+.profile{
+  text-align: center;
+}
+.link{
+  color: #d867cf  !important;
+  text-decoration: none !important;
+}
